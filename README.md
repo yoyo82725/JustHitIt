@@ -8,6 +8,8 @@
 <li>遵守程式撰寫規範</li>
 <li>2014 KT科藝獎 參賽入圍作品</li>
 </ul>
+google drive
+https://drive.google.com/file/d/0BxmyhDQeDp5pYVNXM21wNWdLMmc/view?usp=sharing
 
 ![image](https://raw.githubusercontent.com/yoyo82725/JustHitIt/master/chat151.jpg)
 ![image](https://raw.githubusercontent.com/yoyo82725/JustHitIt/master/S1B.jpg)
